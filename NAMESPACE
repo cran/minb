@@ -1,0 +1,4 @@
+export(minb)
+import(pscl)
+import(MASS)
+import(stats)
